@@ -8,6 +8,12 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+	}
+
+	@Test
+	void myTest() {
+		System.out.println("i'm a test");
 	}
 
 }
